@@ -58,9 +58,7 @@ int main(){
                 ap++;
             }while
                 (ap<=20);
-
-
-            }
+}
 
 
 
