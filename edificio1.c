@@ -54,10 +54,8 @@ int main(){
                     ap++;
                      continue;
                 }
-
                 printf("APARTAMENTO %d\n",ap);
                 ap++;
-
             }while
                 (ap<=20);
 
